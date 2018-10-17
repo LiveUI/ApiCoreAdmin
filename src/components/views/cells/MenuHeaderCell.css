@@ -1,0 +1,14 @@
+#menu div.header {
+  background-color: #353c4b;
+}
+#menu div.header img {
+  color: #afabab;
+  width: 36px;
+  height: 36px;
+}
+#menu div.header h3 {
+  color: white;
+}
+#menu div.header p {
+  color: #afabab;
+}

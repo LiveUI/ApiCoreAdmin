@@ -1,0 +1,18 @@
+#menu div.cell {
+  background-color: #404654;
+  cursor: pointer;
+}
+#menu div.cell.active {
+  background-color: #393d48;
+}
+#menu div.cell img {
+  color: #afabab;
+  width: 36px;
+  height: 36px;
+}
+#menu div.cell h3 {
+  color: white;
+}
+#menu div.cell p {
+  color: #afabab;
+}
